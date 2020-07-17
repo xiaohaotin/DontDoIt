@@ -33,3 +33,4 @@ Plugins/UEDirectInputPadPlugin/Source/DirectInputPadPlugin/Public/IDirectInputPa
 Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
 Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
 Plugins/UEDirectInputPadPlugin/Config/FilterPlugin.ini
+Plugins/
